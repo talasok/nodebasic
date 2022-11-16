@@ -1,0 +1,23 @@
+{
+  "name": "nodebasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talasok/nodebasic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talasok/nodebasic/issues"
+  },
+  "homepage": "https://github.com/talasok/nodebasic#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
